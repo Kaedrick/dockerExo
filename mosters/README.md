@@ -1,1 +1,1 @@
- POSTER_DIR=../posters node server.js
+ POSTER_DIR="C:\Users\adelb\OneDrive\Bureau\dockerExo\Exo\master\posters"
