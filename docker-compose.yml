@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  mosters:
+    build: .
+    ports:
+      - 8080:8080
+    environment:
+      POSTER_DIR=/poster
+
